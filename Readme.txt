@@ -4,3 +4,6 @@ This also contains the languages I have experience with: where I have experience
 SQL I am learning using codedex, Hackerrank and Leetcode.
 
 Link to the website: https://noahmax08.github.io/Personal-Website/
+
+Email is not working due to github email protection, but the email is nmaxwel5@vols.utk.edu
+
